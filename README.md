@@ -46,4 +46,4 @@ I am a Bachelor of Software Engineering student at **Bahria University** with a 
 
 ### 📫 Connect with me
 
-[LinkedIn]([https://www.linkedin.com/in/muhammad-taha-kashif/]) | [Portfolio](https://tahakashif-portfolio.netlify.app/) | [Email](mailto:tahakashif374@email.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-taha-kashif/) | [Portfolio](https://tahakashif-portfolio.netlify.app/) | [Email](mailto:tahakashif374@email.com)
