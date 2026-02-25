@@ -12,7 +12,7 @@ I am a Bachelor of Software Engineering student at **Bahria University** with a 
 * **Frontend:** React.js, Next.js, Web Interface Design
 * **Design:** Figma, UI Prototyping, User-Focused Design
 * **Data & AI:** Machine Learning Fundamentals, Microsoft Access, Prompt Engineering
-* **Workflow:** API Integration, Problem Solving, SEO
+* **Workflow:** API Integration, Problem Solving
 
 ---
 
